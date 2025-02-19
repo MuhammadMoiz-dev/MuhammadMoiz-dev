@@ -1,14 +1,4 @@
-
-<h1 align="center">Hi :wave:, I'm <a href="https://rizwanjamal.online" target="blank">
-Muhammad Moiz</a></h1>
-
-# 🚀Welcome to My GitHub Project! 🚀
-
-## 🎉 A cutting-edge project to change the world 🌍
-
-### ⭐ Powered by passion, creativity, and innovation ⭐
-
-<h1 align="center">Hi 👋, I'm Muhammad Moiz</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/MuhammadMoiz-dev" target="blank">Muhammad Moiz</a></h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadmoiz-dev" alt="muhammadmoiz-dev" /></a> </p>
