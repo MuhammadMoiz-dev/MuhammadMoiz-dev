@@ -2,11 +2,11 @@
 <h1 align="center">Hi :wave:, I'm <a href="https://rizwanjamal.online" target="blank">
 Muhammad Moiz</a></h1>
 
-# 🚀<h1 align="center"> Welcome to My GitHub Project! 🚀</h1>
+# 🚀Welcome to My GitHub Project! 🚀
 
-##<h1 align="center"> 🎉 A cutting-edge project to change the world 🌍</h1>
+## 🎉 A cutting-edge project to change the world 🌍
 
-### <h1 align="center">⭐ Powered by passion, creativity, and innovation ⭐</h1>
+### ⭐ Powered by passion, creativity, and innovation ⭐
 
 
 
